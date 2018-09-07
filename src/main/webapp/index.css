@@ -12,6 +12,10 @@ h1 {
     margin-bottom: 40px;
 }
 
+h2 {
+    margin-bottom: 20px;
+}
+
 #container {
     max-width: 1024px;
     margin: 0 auto;
@@ -19,15 +23,8 @@ h1 {
 }
 
 .member-container {
-    -webkit-box-shadow: 2px -1px 31px 0px rgba(0,0,0,0.75);
-    -moz-box-shadow: 2px -1px 31px 0px rgba(0,0,0,0.75);
-    box-shadow: 2px -1px 31px 0px rgba(0,0,0,0.75);
     padding: 20px;
     margin-bottom: 40px;
-}
-
-.member-name {
-
 }
 
 .member-image {
